@@ -1,0 +1,6 @@
+Sequence length: 64
+A count: 15
+T count: 17
+G count: 18
+C count: 14
+GC percentage: 50.00%
